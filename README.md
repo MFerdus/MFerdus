@@ -29,7 +29,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ---
-## 🛠️ Skills & Tools
+## 🛠️ Tools
 
 **Programming & Data**
 - Python, SQL, R  
