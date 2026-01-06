@@ -1,4 +1,3 @@
-###  👋 Hi there! I am Mst Zannatun Ferdus
 # 👋 Hi there! I'm Mst. Zannatun Ferdus
 
 🚀 **AI / ML Engineer | Data Scientist | PhD Researcher**  
