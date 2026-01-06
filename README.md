@@ -9,12 +9,11 @@
 ---
 
 ## 🌟 About Me
-
-- 🔹 PhD researcher specializing in **Artificial Intelligence & Machine Learning**
-- 🔹 Experienced in **LLMs, Generative AI, RAG pipelines, LangChain**
+- 🔹 Experienced in **Machine Learning, LLMs, Generative AI, RAG pipelines, LangChain**
 - 🔹 Focused on **cost-effective AI for healthcare & business**
 - 🔹 Published researcher with **171+ Google Scholar citations**
 - 🔹 Strong background in **Python, SQL, ML, Deep Learning**
+- 🔹 PhD researcher specializing in **Artificial Intelligence & Machine Learning**
 
 ---
 
